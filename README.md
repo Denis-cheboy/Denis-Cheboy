@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on content creation<br>Im looking to collaborate on software testing related content creation<br>Im currently learning chrome extensions manifest v3 & flutter<br>Ask me about automation testing<br>Fun Fact- i am lazy but smart
+Im Denis Abonda, a software engineer based in nairobi,kenya who is passionate about making contributing to open-source more approachable, creating technology to evaluate people and building communities.Some technologies i enjoy working with includes <b>ReactJS</b>(JavaScript APIs),<b>NodeJS</b> <b>GraphQL</b><br>Im looking to collaborate on software development,testing and deployment related tasks<br>Im currently learning <b>AWS<b/> and <b>Containarization<b/>  manifest<br>Ask me about MERN stack development <br>Fun Fact- i am lazy but smart (..)
 
 
 ## 🌐 Socials:
