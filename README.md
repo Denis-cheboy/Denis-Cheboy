@@ -1,6 +1,10 @@
 # 💫 About Me:
 Im currently working on content creation<br>Im looking to collaborate on software testing related content creation<br>Im currently learning chrome extensions manifest v3 & flutter<br>Ask me about automation testing<br>Fun Fact- i am lazy but smart
+
+
 <iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deno.dev_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Denis (Onyango) Abonda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DenisDev6) 
 
